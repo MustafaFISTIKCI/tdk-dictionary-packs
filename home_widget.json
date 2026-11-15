@@ -1,0 +1,204 @@
+{
+  "sayac": [
+    {
+      "deger": "1.360.427.400"
+    }
+  ],
+  "karistirma": [
+    {
+      "id": 51,
+      "yanlis": "kamelya",
+      "dogru": "kameriye"
+    },
+    {
+      "id": 91,
+      "yanlis": "tellal",
+      "dogru": "tellak"
+    },
+    {
+      "id": 32,
+      "yanlis": "emir",
+      "dogru": "emîr"
+    },
+    {
+      "id": 80,
+      "yanlis": "sari",
+      "dogru": "sâri"
+    },
+    {
+      "id": 47,
+      "yanlis": "irtica",
+      "dogru": "iltica"
+    },
+    {
+      "id": 35,
+      "yanlis": "fani",
+      "dogru": "fâni"
+    },
+    {
+      "id": 66,
+      "yanlis": "muhabere",
+      "dogru": "muharebe"
+    },
+    {
+      "id": 8,
+      "yanlis": "akit",
+      "dogru": "âkit"
+    },
+    {
+      "id": 30,
+      "yanlis": "deyim",
+      "dogru": "deyiş"
+    },
+    {
+      "id": 46,
+      "yanlis": "indirmek",
+      "dogru": "indirgemek"
+    }
+  ],
+  "atasoz": [
+    {
+      "sozum": "yedi adım yolun, bir yudum suyun hakkı vardır",
+      "anlami": "iki insanın tanışıp kaynaşması ve aralarında bir dostluk bağı oluşması için özel bir kurala, yola, yönteme gerek yoktur, kısa bir yolculuk, küçük bir ikram bile bu yakınlığı sağlayabilir.",
+      "turu2": "Atasözü"
+    }
+  ],
+  "syyd": [
+    {
+      "id": 480,
+      "yanliskelime": "variyet",
+      "dogrukelime": "va:riyet"
+    },
+    {
+      "id": 167,
+      "yanliskelime": "Ha:lim",
+      "dogrukelime": "Hali:m"
+    },
+    {
+      "id": 8,
+      "yanliskelime": "adele",
+      "dogrukelime": "adale"
+    }
+  ],
+  "kural": [
+    {
+      "adi": "Ünlü Düşmesi",
+      "url": "http://tdk.gov.tr/icerik/yazim-kurallari/unlu-dusmesi/"
+    }
+  ],
+  "yabanci": {
+    "karsid": 927,
+    "kkelime": "komplike",
+    "kkoken": "Fr. complique",
+    "kkarsilik": "karmaşık",
+    "anlam": "Ögelerinin veya gerekli işlemlerin sayısının çokluğu, çeşitliliği yüzünden anlaşılması, yapılması güç olan."
+  },
+  "kelime": [],
+  "gundem": [
+    {
+      "type": "gundemdeki_kelime",
+      "madde": "elöpen",
+      "anlam": "► kertenkele"
+    },
+    {
+      "type": "gundemdeki_kelime",
+      "madde": "badi",
+      "anlam": "► ördek"
+    },
+    {
+      "type": "gundemdeki_kelime",
+      "madde": "pirpirim",
+      "anlam": "► semizotu"
+    },
+    {
+      "type": "gundemdeki_kelime",
+      "madde": "şavk",
+      "anlam": "► ışık"
+    },
+    {
+      "type": "gundemdeki_kelime",
+      "madde": "çömçe",
+      "anlam": "Tahta kepçe; çemçe"
+    },
+    {
+      "type": "ayin_kelimesi",
+      "madde": "öğretmen",
+      "anlam": "Mesleği bilgi öğretmek olan kimse; hoca, muallim, muallime"
+    },
+    {
+      "type": "gunun_kelimesi",
+      "madde": "kasım",
+      "anlam": "Yılın on birinci ayı; ikinci teşrin, son teşrin, teşrinisani"
+    },
+    {
+      "type": "ayin_kelimesi",
+      "madde": "Cumhuriyet Bayramı",
+      "anlam": "29 Ekim 1923'te kurulan cumhuriyeti kutlamak üzere yasayla kabul edilmiş olan bayram; ulusal bayram, millî bayram"
+    },
+    {
+      "type": "gunun_kelimesi",
+      "madde": "Türkçe",
+      "anlam": "Türklerin konuştuğu ve yazdığı dillerin genel adı; Türki"
+    },
+    {
+      "type": "ayin_kelimesi",
+      "madde": "Türkçe",
+      "anlam": "Türklerin konuştuğu ve yazdığı dillerin genel adı; Türki"
+    },
+    {
+      "type": "ayin_kelimesi",
+      "madde": "başkumandan",
+      "anlam": "► başkomutan"
+    },
+    {
+      "type": "ayin_kelimesi",
+      "madde": "kahramanlık",
+      "anlam": "Kahramanca davranış; yiğitlik"
+    },
+    {
+      "type": "ayin_kelimesi",
+      "madde": "başlama vuruşu",
+      "anlam": "Futbolda oyunu başlatmak veya her golden sonra topu yeniden oyuna sokmak için orta yuvarlağın merkezinde yapılan vuruş; santra"
+    },
+    {
+      "type": "ayin_kelimesi",
+      "madde": "Millî Mücadele",
+      "anlam": "I. Dünya Savaşı sonunda düşman işgaline karşı Atatürk'ün Samsun'a çıkmasıyla tam bağımsızlık amacına yönelik olarak başlatılan, işgalcilerin ve iş birlikçilerinin yenilgisi sonrasında Türkiye Cumhuriyeti'nin kuruluşu ve Lozan Antlaşması ile sonuçlanan askerî ve siyasi dönem"
+    },
+    {
+      "type": "ayin_kelimesi",
+      "madde": "hâkimiyet",
+      "anlam": "► egemenlik"
+    },
+    {
+      "type": "ayin_kelimesi",
+      "madde": "bayram",
+      "anlam": "Millî veya dinî bakımdan önemi olan ve kutlanan gün veya günler"
+    },
+    {
+      "type": "ayin_kelimesi",
+      "madde": "toplumsal dayanışma",
+      "anlam": "Toplumun kurum ve kuruluşlarıyla ortak değerlerde birleşmesi ve birlikte hareket etmesi"
+    },
+    {
+      "type": "ayin_kelimesi",
+      "madde": "matematik",
+      "anlam": "Aritmetik, cebir, geometri gibi sayı ve ölçü temeline dayanarak niceliklerin özelliklerini inceleyen bilimlerin ortak adı; riyaziye"
+    },
+    {
+      "type": "gunun_kelimesi",
+      "madde": "yapay zekâ",
+      "anlam": "Bir bilgisayarın, bilgisayar kontrolündeki bir robotun veya programlanabilir bir aygıtın insana benzer biçimde algılama, öğrenme, fikir yürütme, karar verme, sorun çözme, iletişim kurma vb. işlevleri sergileyebilme yeteneği"
+    },
+    {
+      "type": "ayin_kelimesi",
+      "madde": "adam",
+      "anlam": "Erkek kişi; herif"
+    },
+    {
+      "type": "gunun_kelimesi",
+      "madde": "masa",
+      "anlam": "Dairelerde, kurumlarda belli konularla ilgili işlerin görüldüğü bölüm"
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-15T08:33:27.982Z",
+  "dictionaries": {
+    "gts": {
+      "dictionary_id": "gts",
+      "total_records": 82175,
+      "fields": {
+        "madde_id": {
+          "present_count": 82175,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "madde": {
+          "present_count": 82175,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "lisan": {
+          "present_count": 16305,
+          "missing_count": 65870,
+          "missing_rate": 0.8016,
+          "sample_source_record_ids": [
+            "658",
+            "95337",
+            "99480",
+            "95363",
+            "95376"
+          ]
+        },
+        "telaffuz": {
+          "present_count": 12095,
+          "missing_count": 70080,
+          "missing_rate": 0.8528,
+          "sample_source_record_ids": [
+            "658",
+            "95337",
+            "99480",
+            "95363",
+            "95376"
+          ]
+        },
+        "heceleme": {
+          "present_count": 0,
+          "missing_count": 82175,
+          "missing_rate": 1,
+          "sample_source_record_ids": [
+            "658",
+            "95337",
+            "99480",
+            "95363",
+            "95376"
+          ]
+        },
+        "seskod": {
+          "present_count": 71680,
+          "missing_count": 10495,
+          "missing_rate": 0.1277,
+          "sample_source_record_ids": [
+            "95464",
+            "95473",
+            "71689",
+            "660",
+            "87278"
+          ]
+        },
+        "anlamlarListe": {
+          "present_count": 82175,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        }
+      }
+    },
+    "ortaokul": {
+      "dictionary_id": "ortaokul",
+      "total_records": 146,
+      "fields": {
+        "madde": {
+          "present_count": 146,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "anlam": {
+          "present_count": 146,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        }
+      }
+    },
+    "atasozu": {
+      "dictionary_id": "atasozu",
+      "total_records": 3404,
+      "fields": {
+        "soz_id": {
+          "present_count": 3404,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "sozum": {
+          "present_count": 3404,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "anlami": {
+          "present_count": 3404,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "turu2": {
+          "present_count": 3404,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "anahtar": {
+          "present_count": 3198,
+          "missing_count": 206,
+          "missing_rate": 0.0605,
+          "sample_source_record_ids": [
+            "24",
+            "27",
+            "34",
+            "24",
+            "27"
+          ]
+        }
+      }
+    },
+    "etimoloji": {
+      "dictionary_id": "etimoloji",
+      "total_records": 36,
+      "fields": {
+        "madde": {
+          "present_count": 36,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "anlam1": {
+          "present_count": 35,
+          "missing_count": 1,
+          "missing_rate": 0.0278,
+          "sample_source_record_ids": [
+            "etms-72e358000364"
+          ]
+        },
+        "aciklama": {
+          "present_count": 35,
+          "missing_count": 1,
+          "missing_rate": 0.0278,
+          "sample_source_record_ids": [
+            "etms-72e358000364"
+          ]
+        },
+        "kaynak": {
+          "present_count": 32,
+          "missing_count": 4,
+          "missing_rate": 0.1111,
+          "sample_source_record_ids": [
+            "etms-9bad791ff7f6",
+            "etms-3b40340d2045",
+            "etms-9ec4994dfb6e",
+            "etms-72e358000364"
+          ]
+        },
+        "tur": {
+          "present_count": 2,
+          "missing_count": 34,
+          "missing_rate": 0.9444,
+          "sample_source_record_ids": [
+            "etms-a926a6ade571",
+            "etms-d09c2ecae8a0",
+            "etms-802d83d27225",
+            "etms-864635eb3d34",
+            "etms-9bad791ff7f6"
+          ]
+        }
+      }
+    },
+    "koken_bilgisi": {
+      "dictionary_id": "koken_bilgisi",
+      "total_records": 18,
+      "fields": {
+        "word": {
+          "present_count": 18,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "structure": {
+          "present_count": 3,
+          "missing_count": 15,
+          "missing_rate": 0.8333,
+          "sample_source_record_ids": [
+            "koken-a81037a3ddb0",
+            "koken-5dd2067763d5",
+            "koken-112eb06d5996",
+            "koken-94c77c4d3af2",
+            "koken-6c09bb8541d8"
+          ]
+        },
+        "meaning": {
+          "present_count": 18,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "etimology": {
+          "present_count": 18,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "referances": {
+          "present_count": 18,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        }
+      }
+    },
+    "tarama": {
+      "dictionary_id": "tarama",
+      "total_records": 29,
+      "fields": {
+        "kilavuz_id": {
+          "present_count": 29,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "kelime": {
+          "present_count": 29,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "tarama": {
+          "present_count": 29,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        }
+      }
+    },
+    "derleme": {
+      "dictionary_id": "derleme",
+      "total_records": 1529,
+      "fields": {
+        "madde": {
+          "present_count": 1529,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "anlam": {
+          "present_count": 1529,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "sehir": {
+          "present_count": 1512,
+          "missing_count": 17,
+          "missing_rate": 0.0111,
+          "sample_source_record_ids": [
+            "74313",
+            "115086",
+            "200862",
+            "22442",
+            "99279"
+          ]
+        },
+        "kaynak": {
+          "present_count": 1529,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        }
+      }
+    },
+    "bati": {
+      "dictionary_id": "bati",
+      "total_records": 1,
+      "fields": {
+        "kelime_id": {
+          "present_count": 1,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "sozcuk": {
+          "present_count": 1,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "kistdil": {
+          "present_count": 1,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "dilacik": {
+          "present_count": 1,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "anlam": {
+          "present_count": 1,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        }
+      }
+    },
+    "kisi_ad": {
+      "dictionary_id": "kisi_ad",
+      "total_records": 34,
+      "fields": {
+        "ad_id": {
+          "present_count": 34,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "ad": {
+          "present_count": 34,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "cins": {
+          "present_count": 34,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "soyleyis": {
+          "present_count": 1,
+          "missing_count": 33,
+          "missing_rate": 0.9706,
+          "sample_source_record_ids": [
+            "2503",
+            "6287",
+            "2444",
+            "2338",
+            "3967"
+          ]
+        },
+        "anlamlar": {
+          "present_count": 34,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        }
+      }
+    },
+    "bilim_sanat": {
+      "dictionary_id": "bilim_sanat",
+      "total_records": 373,
+      "fields": {
+        "terim_id": {
+          "present_count": 373,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "sozcuk": {
+          "present_count": 373,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "anlam": {
+          "present_count": 340,
+          "missing_count": 33,
+          "missing_rate": 0.0885,
+          "sample_source_record_ids": [
+            "124636",
+            "124637",
+            "126198",
+            "74170",
+            "38256"
+          ]
+        },
+        "sozluk_ad": {
+          "present_count": 373,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "ingiliz": {
+          "present_count": 216,
+          "missing_count": 157,
+          "missing_rate": 0.4209,
+          "sample_source_record_ids": [
+            "88951",
+            "49303",
+            "75808",
+            "22630",
+            "90287"
+          ]
+        },
+        "fransiz": {
+          "present_count": 222,
+          "missing_count": 151,
+          "missing_rate": 0.4048,
+          "sample_source_record_ids": [
+            "88951",
+            "49303",
+            "75808",
+            "22630",
+            "90287"
+          ]
+        },
+        "latin": {
+          "present_count": 17,
+          "missing_count": 356,
+          "missing_rate": 0.9544,
+          "sample_source_record_ids": [
+            "88951",
+            "49303",
+            "75808",
+            "22630",
+            "90287"
+          ]
+        }
+      }
+    },
+    "lehceler": {
+      "dictionary_id": "lehceler",
+      "total_records": 99,
+      "fields": {
+        "lehce_id": {
+          "present_count": 99,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "asil": {
+          "present_count": 99,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "turkce": {
+          "present_count": 99,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "azerice1": {
+          "present_count": 99,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "kazakca1": {
+          "present_count": 99,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "ozbekce1": {
+          "present_count": 99,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        }
+      }
+    },
+    "osmanlica": {
+      "dictionary_id": "osmanlica",
+      "total_records": 9,
+      "fields": {
+        "madde": {
+          "present_count": 9,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "transkripsiyon": {
+          "present_count": 9,
+          "missing_count": 0,
+          "missing_rate": 0,
+          "sample_source_record_ids": []
+        },
+        "kaynakDil": {
+          "present_count": 1,
+          "missing_count": 8,
+          "missing_rate": 0.8889,
+          "sample_source_record_ids": [
+            "I",
+            "II",
+            "I",
+            "II",
+            "osm-4f4389ca3eae"
+          ]
+        },
+        "sozcukTuruGrubu": {
+          "present_count": 8,
+          "missing_count": 1,
+          "missing_rate": 0.1111,
+          "sample_source_record_ids": [
+            "I"
+          ]
+        }
+      }
+    }
+  }
+}
